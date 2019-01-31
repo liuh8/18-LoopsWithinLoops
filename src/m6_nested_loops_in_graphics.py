@@ -152,7 +152,7 @@ def draw_wall_on_right(rectangle, n, window):
     #     The testing code is already written for you (above).
     # ------------------------------------------------------------------
     width = rectangle.get_width()
-    height =rectangle.get_height()
+    height = rectangle.get_height()
 
     c1 = rectangle.corner_1
     c2 = rectangle.corner_2
